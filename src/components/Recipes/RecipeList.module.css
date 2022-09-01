@@ -1,0 +1,18 @@
+.summary a {
+  text-decoration: none;
+  color: black;
+  pointer-events: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-left: initial;
+}
+
+@media (max-width: 768px) {
+  ul {
+    display: block;
+  }
+}
