@@ -17,3 +17,5 @@ Then: Create a .env file with
 Then : -npm install
 
 and finaly : -npm start
+
+The project is hosting on Firebase: https://food-app-76000.web.app/
